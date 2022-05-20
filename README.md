@@ -3,6 +3,6 @@ My implementations of data structures using JS.
 
 ### Checklist
 - [x] Binary Search Tree (BST)
-- [ ] Graphs
-- [ ] Linked Lists
+- [x] Graphs
+- [x] Linked Lists
 - [ ] Stack and queues
